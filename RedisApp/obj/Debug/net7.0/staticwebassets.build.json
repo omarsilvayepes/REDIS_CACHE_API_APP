@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n07rnMAt9LlFjucIubsieCxlJsFSKyIuVsOLvJoynbY=",
+  "Source": "RedisApp",
+  "BasePath": "_content/RedisApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
